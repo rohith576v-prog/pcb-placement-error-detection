@@ -1,0 +1,10 @@
+# Replace path with your dataset root.
+path: ../your_dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: missing_component
+  1: shifted_component
+  2: incorrect_orientation
+  3: wrong_component
